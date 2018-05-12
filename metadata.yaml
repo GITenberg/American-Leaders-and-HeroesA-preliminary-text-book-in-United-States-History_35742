@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8151'
     url: http://www.gutenberg.org/2009/agents/8151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35742#American-Leaders-and-HeroesA-preliminary-text-book-in-United-States-History
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
