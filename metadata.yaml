@@ -1,0 +1,44 @@
+_repo: American-Leaders-and-HeroesA-preliminary-text-book-in-United-States-History_35742
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35742-h/images/cover-back.jpg
+creator:
+  author:
+    agent_name: Gordy, Wilbur F. (Wilbur Fisk)
+    alias: Gordy, Wilbur Fisk
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '8151'
+    url: http://www.gutenberg.org/2009/agents/8151
+description: ''
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- Biography'
+tableOfContents: Christopher Columbus and the discovery of America -- Hernando De
+  Soto and the discovery of the Mississippi -- Sir Walter Raleigh and the first English
+  attempts to colonize America -- John Smith and the settlement of Jamestown -- Nathaniel
+  Bacon and the uprising of the people in Virginia in 1676 -- Miles Standish and the
+  Pilgrims -- Roger Williams and the Puritans -- William Penn and the settlement of
+  Pennsylvania -- Cavelier de La Salle and the French in the Mississippi Valley --
+  George Washington, the boy surveyor and young soldier -- James Wolfe, the hero of
+  Quebec -- Patrick Henry and the Stamp Act -- Samuel Adams and the Boston Tea Party
+  -- Paul Revere and the battle of Concord and Lexington -- Benjamin Franklin and
+  aid from France -- George Washington, the Virginia planter and the Revolutionary
+  soldier -- Nathaniel Greene, the hero of the South, and Francis Marion, the "Swamp
+  Fox" -- Daniel Boone, the Kentucky pioneer -- Thomas Jefferson and the Louisiana
+  Purchase -- Robert Fulton and the steamboat -- Andrew Jackson, the upholder of the
+  Union -- Daniel Webster, the defender and expounder of the Constitution -- Samuel
+  Finley Breese Morse and the electric telegraph -- Abraham Lincoln, the liberator
+  of the slaves -- Ulysses Simpson Grant and the Civil War -- Some leaders and heroes
+  in the war with Spain.
+title: 'American Leaders and Heroes: A preliminary text-book in United States History'
+url: http://www.gutenberg.org/ebooks/35742
